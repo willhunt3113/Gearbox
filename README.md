@@ -6,5 +6,7 @@
 
 My insparation was from this ![Video](https://www.youtube.com/watch?v=t4FIgdBBLjw&t=65s) from the 3D Printer Academy on Youtube. It showed a gearbox picured down below and listed some issues that he came across. 
 
+![Gif](https://github.com/willhunt3113/Gearbox/blob/main/Sequence%2001_1.gif)
+Inspiration from video 
 
 
