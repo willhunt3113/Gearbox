@@ -9,7 +9,9 @@ My insparation was from this ![Video](https://www.youtube.com/watch?v=t4FIgdBBLj
 ![Gif](https://github.com/willhunt3113/Gearbox/blob/main/Sequence%2001_1.gif)
 
 
+<img width="1277" height="811" alt="image" src="https://github.com/user-attachments/assets/770f87a3-c483-4221-bcdf-ba77bab4017e" />
 
+2 gears after adjusting pitch diameter and distance so they were in right position 
 
 
 Sources used: https://www.youtube.com/watch?v=P1Xx3hsovDk
